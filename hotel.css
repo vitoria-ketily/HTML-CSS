@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0RRUbicPJKcwUnE7frF-e-dMntmpxFDJjA&usqp=CAU");
+	background-size: 100%;
+	font-style: bold;
+	
+	
+}
+h1{
+	color:black;
+	background-color:white;
+	font-style: italic;
+    font-size: 30px;
+}
+h2,h3{
+	text-align: left;
+	color:darkblue;
+	background-color: whitesmoke;
+	
+}
+p{
+	color:rgb(26, 35, 126);
+	font-size: 15px;
+	font-family: arial;
+	font-style: italic;
+}
+
+a{
+    background-color:rgb(239, 154, 154);
+	text-align: right;
+	text-decoration: none;
+}
