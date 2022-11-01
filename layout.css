@@ -1,0 +1,30 @@
+header{
+    height: 100px;
+    width: 100%;
+    background-color: pink;
+  
+}
+menu{
+    height:50px ;
+    width: 100%;
+    background-color: aqua;
+    
+}
+nav{
+    height: 500px;
+    width: 10%;
+    background-color: rgb(184, 97, 111);
+
+}
+content{
+  background-color: rgb(76, 0, 255);
+  height: 500px;
+  width: 90%;
+  float: right;
+}
+footer{
+    height: 100px ;
+    width: 100%;
+    background-color: rgb(162, 0, 255);
+    
+}
